@@ -7,16 +7,16 @@ public class Exercicio2 {
 
         Scanner sc = new Scanner(System.in);
 
-        String nome;
 
         System.out.print("Digite seu nome: ");
-        nome = sc.next();
+        String nome = sc.next();
 
         System.out.println("Meu nome e: " + nomeUsuario(nome));
 
     }
 
     public static String nomeUsuario(String nome) {
+
         return nome;
     }
 }

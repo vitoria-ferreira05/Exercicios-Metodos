@@ -21,12 +21,13 @@ public class Exercicio5 {
 
         System.out.println("Valor da comissao: R$ " + calcularComissao(totalDeVendas));
 
-        double salarioTotal = salarioFixo + totalDeVendas + calcularComissao(totalDeVendas);
-        System.out.println("O salario final de "  +  nomeVendedor + " e: R$"  + salarioTotal);
+        double salarioFinal = salarioFixo + calcularComissao(totalDeVendas);
+        System.out.println("O salario final de "  +  nomeVendedor + " e: R$ "  + salarioFinal);
 
     }
 
     public static double calcularComissao(double totalDeVendas) {
+
         return totalDeVendas * 0.15;
     }
 }

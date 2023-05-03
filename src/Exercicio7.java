@@ -29,6 +29,7 @@ public class Exercicio7 {
     }
 
     public static double conversaoDolarReal(double dolar, double cotacaoEmReal){
+
         return dolar * cotacaoEmReal;
     }
 }

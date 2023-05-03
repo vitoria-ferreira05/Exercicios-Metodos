@@ -9,7 +9,7 @@ public class Exercicio1 {
         Scanner scanner = new Scanner(System.in);
 
        // while (true) {
-            System.out.println("Digite um número: ou 0 para sair: ");
+            System.out.println("Digite um número: ");
             int numero = scanner.nextInt();
           //  if (numero == 0) {
               //  break;

@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c089f3cd-7c07-4684-92c1-c813962dfb19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Metodos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vitoria.Ferreira/Documents/Exercicios Intellij/Exercicios Metodos&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exercicio8">
+}</component>
+  <component name="RunManager" selected="Application.Exercicio4">
+    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio1" />
+      <module name="Exercicios Metodos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio2" />
       <module name="Exercicios Metodos" />
@@ -55,22 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio4" />
+      <module name="Exercicios Metodos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio5" />
-      <module name="Exercicios Metodos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio6" />
-      <module name="Exercicios Metodos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio7" />
       <module name="Exercicios Metodos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio8" />
-        <item itemvalue="Application.Exercicio7" />
-        <item itemvalue="Application.Exercicio6" />
-        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio5" />
+        <item itemvalue="Application.Exercicio1" />
+        <item itemvalue="Application.Exercicio2" />
+        <item itemvalue="Application.Exercicio8" />
       </list>
     </recent_temporary>
   </component>

@@ -18,6 +18,7 @@ public class Exercicio6 {
     }
 
     public static double conversaoTemperatura(double celsius){
+
         return (9 * celsius + 160) / 5;
     }
 }

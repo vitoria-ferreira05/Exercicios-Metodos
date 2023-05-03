@@ -8,22 +8,29 @@ public class Exercicio4 {
 
         Scanner sc = new Scanner(System.in);
 
-        int[] numeros = new int[6];
-        int menor;
+        System.out.print("Digite a quantidade de números: ");
+        int vezes = sc.nextInt();
 
-        System.out.println("MENOR NUMERO");
+        int[] numeros = new int[vezes];
 
-        for (int i = 0; i < 6; i++) {
-            System.out.println("Digite os numeros: ");
+        for (int i = 0; i < vezes; i++) {
+            System.out.println("Digite o número: ");
             numeros[i] = sc.nextInt();
         }
 
-        menor = numeros[0];
-        for (int i = 0; i < numeros.length; i++) {
-            if (menor > numeros[i]) {
-                menor = numeros[i];
+        int menor = valorMenor(numeros);
+
+        System.out.println("O menor numero e: " + menor);
+
+    }
+
+    public static int valorMenor(int[] vetor) {
+        int menor = vetor[0];
+        for (int i = 1; i < vetor.length; i++) {
+            if (vetor[i] < menor) {
+                menor = vetor[i];
             }
         }
-        System.out.println("O menor numero e: " + menor);
+        return menor;
     }
 }
